@@ -80,9 +80,7 @@ Mainvisual
     height: 600px;
     object-fit: cover;
 }
-#mainvisual h2 {
-    font-family: 'Poppins', sans-serif;
-}
+
 /*-------------------------------------------
 About
 -------------------------------------------*/
@@ -99,6 +97,9 @@ About
 }
 #about .text {
     text-align: left;    
+}
+#about h2 {
+    font-family: 'Poppins', sans-serif;
 }
 
 /*-------------------------------------------
