@@ -10,6 +10,9 @@ body {
 a {
     text-decoration: none;
 }
+p {
+    font-family: 'Zen Kurenaido', sans-serif;
+}
 img {
     max-width: 100%;
 }
@@ -33,6 +36,7 @@ li {
     border-bottom: solid 1px #383e45;
 }
 .content-title {
+    font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
     margin: 10px 0;
 }
